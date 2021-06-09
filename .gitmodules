@@ -1,0 +1,3 @@
+[submodule "ts-schema"]
+	path = ts-schema
+	url = https://github.com/christyharagan/ts-schema
